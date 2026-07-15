@@ -1,0 +1,11 @@
+# Ignorar pasta de trabalho do Desktop (atalho)
+assets/Área de Trabalho/
+assets/Area de Trabalho/
+
+# Ignorar configurações locais do Claude
+.claude/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

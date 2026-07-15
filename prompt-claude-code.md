@@ -2,7 +2,7 @@
 
 ## INSTRUÇÃO GERAL
 
-Construa uma wiki enciclopédica para a **Dra. Natasha Slhessarenko**, pré-candidata ao Governo de Mato Grosso pelo PSD em 2026. O formato deve seguir exatamente o estilo da wiki de referência: **https://wiki.deputadovitorjunior.com.br/**
+Construa uma wiki enciclopédica para a **Dra. Natasha Slhessarenko**, pré-candidata ao Governo de Mato Grosso pelo PSD em 2026.
 
 ## ESTRUTURA DA WIKI
 
@@ -123,4 +123,3 @@ Cada arquivo contém o texto completo, com referências numeradas, citações e 
 - O logo da campanha será fornecido separadamente
 - O conteúdo é factual e baseado em fontes verificáveis (Itatiaia, RDM Online, Portal do CFM, Folha Max, Vida VG, Wikipédia)
 - Manter tom enciclopédico, impessoal e factual em todo o site
-- Seguir o estilo visual da wiki de referência: https://wiki.deputadovitorjunior.com.br/

@@ -372,22 +372,17 @@ table.wiki-table tr:last-child td { border-bottom: none; }
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 1rem; margin-top: 1.1rem;
 }
+.cards-grid--2col { grid-template-columns: repeat(2, 1fr); }
 .proposta-card {
   background: var(--color-bg-white); border: 1px solid var(--border);
   border-radius: var(--radius-lg); padding: 1.25rem 1.1rem;
   font-family: var(--font-body);
   box-shadow: var(--shadow-sm);
-  transition: transform .22s var(--ease), box-shadow .22s var(--ease), border-color .22s;
   position: relative; overflow: hidden;
 }
 .proposta-card::before {
   content: ''; position: absolute; top: 0; left: 0; right: 0;
   height: 4px; background: var(--gradient-primary);
-}
-.proposta-card:hover {
-  transform: translateY(-3px);
-  box-shadow: var(--shadow-md);
-  border-color: var(--border-dark);
 }
 .proposta-card__eyebrow {
   display: inline-flex; align-items: center; gap: .3rem;
@@ -418,13 +413,7 @@ table.wiki-table tr:last-child td { border-bottom: none; }
   color: var(--text-mid);
   display: flex; align-items: center; gap: .6rem;
   box-shadow: var(--shadow-sm);
-  transition: background .2s, border-color .2s, color .2s, transform .2s;
   cursor: default;
-}
-.prioridade-item:hover {
-  background: var(--gradient-primary); border-color: transparent;
-  color: #fff; transform: translateY(-2px);
-  box-shadow: var(--shadow-md);
 }
 .prioridade-icon { font-size: 1.15rem; flex-shrink: 0; }
 

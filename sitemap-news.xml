@@ -3,19 +3,19 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://wiki.deputadovitorjunior.com.br/</loc>
+    <loc>https://wiki.natashaslhessarenko.com.br/</loc>
     <news:news>
       <news:publication>
-        <news:name>Enciclopédia Vitor Junior</news:name>
+        <news:name>Enciclopédia Natasha Slhessarenko</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-05-22T00:00:00-03:00</news:publication_date>
-      <news:title>Vitor Junior (político) — Deputado Estadual PDT-RJ</news:title>
-      <news:keywords>Vitor Junior, Vitor Júnior, deputado estadual, PDT, Rio de Janeiro, ALERJ, José Vitor Vieira Bissonho Junior</news:keywords>
+      <news:publication_date>2026-07-15T00:00:00-04:00</news:publication_date>
+      <news:title>Natasha Slhessarenko (política) — Pré-candidata ao Governo de MT pelo PSD</news:title>
+      <news:keywords>Natasha Slhessarenko, Dra. Natasha, PSD, Mato Grosso, pré-candidata governadora, Natasha Slhessarenko Fraife Barreto</news:keywords>
     </news:news>
     <image:image>
-      <image:loc>https://wiki.deputadovitorjunior.com.br/resultado_laranja_social2.webp</image:loc>
-      <image:title>Vitor Junior (político) — Deputado Estadual PDT-RJ</image:title>
+      <image:loc>https://wiki.natashaslhessarenko.com.br/social-share.webp</image:loc>
+      <image:title>Natasha Slhessarenko (política) — Pré-candidata ao Governo de MT pelo PSD</image:title>
     </image:image>
   </url>
 </urlset>

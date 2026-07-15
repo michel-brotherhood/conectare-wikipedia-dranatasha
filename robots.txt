@@ -33,5 +33,5 @@ Disallow: /
 User-agent: meta-externalagent
 Disallow: /
 
-Sitemap: https://wiki.deputadovitorjunior.com.br/sitemap.xml
-Sitemap: https://wiki.deputadovitorjunior.com.br/sitemap-news.xml
+Sitemap: https://wiki.natashaslhessarenko.com.br/sitemap.xml
+Sitemap: https://wiki.natashaslhessarenko.com.br/sitemap-news.xml
